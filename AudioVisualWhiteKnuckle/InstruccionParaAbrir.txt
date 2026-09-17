@@ -1,3 +1,0 @@
-Hola profe, cuando te diga que no encontró la media del proyecto simplemente le das a "choose directory" (con la checkbox de auto-revisar por otros archivos faltantes en el mismo directorio puesta) y buscas la carpeta de media dentro del proyecto donde esta el archivo de reaper .rpp
-
-Solo metete a ese folder, no te entres a los sub folders y le das a confirmar o choose o lo q sea el auto-busca todo y se cuadra ahi
