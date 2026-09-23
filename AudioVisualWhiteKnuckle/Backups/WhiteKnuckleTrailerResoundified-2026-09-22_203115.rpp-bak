@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.78/linux-x86_64" 1790127489 0
+<REAPER_PROJECT 0.1 "7.78/linux-x86_64" 1790127075 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,9 +19,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 118.39595645678681
-  ZOOM 12.85911208940696 799 0
-  VZOOMEX 8.89425182 1650
+  CURSOR 99.51310844591394
+  ZOOM 50.47430263272614 4530 0
+  VZOOMEX 8.89425182 339
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -67,8 +67,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 137.65598907779386 136.28217681154842
-  SELECTION2 137.65598907779386 136.28217681154842
+  SELECTION 0 0
+  SELECTION2 0 0
   <EXTSTATE
     <DOCKCFG
       MIDIEDIT:{B9A7BE14-8510-8F3C-5B1A-E0931B7C8D93} "0.50000000 2"
@@ -24707,7 +24707,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -24901,74 +24901,10 @@
         SRCCOLOR 303
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE -1 9 0 0 1
-        CFGEDITVIEW 10849.817018 0.134948 57 8 0 0 0 0 0 0.5
+        CFGEDITVIEW 5947.16 0.134948 57 8 0 0 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 0
         CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 521 451 1441 843 1 0 0 0 0 0 0 0 0 0.5 0 0 1 64
-      >
-    >
-    <ITEM
-      POSITION 103.06875
-      SNAPOFFS 0
-      LENGTH 2.62120645921888
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BD9822B6-BA94-27D0-95A2-11D66009C567}
-      IID 1546
-      NAME "41-Footsteps dry-MIDI"
-      VOLPAN 1 0 1 -1
-      SOFFS 0 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4D5E7BE9-6AEB-9EF3-B6AB-7E19385F5CC2}
-      <SOURCE MIDI
-        HASDATA 1 960 QN
-        CCINTERP 32
-        POOLEDEVTS {2E77F10E-22C7-1766-72FF-EE00B76AF1A8}
-        E 108 90 3a 7f
-        E 120 80 3a 00
-        E 300 90 3f 7f
-        E 120 80 3f 00
-        E 240 90 38 7f
-        E 120 80 38 00
-        E 300 90 33 7f
-        E 120 80 33 00
-        E 300 90 38 7f
-        E 120 80 38 00
-        E 240 90 3d 7f
-        E 120 80 3d 00
-        E 240 90 41 7f
-        E 120 80 41 00
-        E 240 90 3e 7f
-        E 120 80 3e 00
-        E 240 90 3a 7f
-        E 120 80 3a 00
-        E 180 90 37 7f
-        E 120 80 37 00
-        E 180 90 3d 7f
-        E 120 80 3d 00
-        E 120 90 36 7f
-        E 120 80 36 00
-        E 240 90 33 7f
-        E 120 80 33 00
-        e 240 90 3e 7f
-        e 120 80 3e 00
-        E 5432 b0 7b 00
-        CCINTERP 32
-        CHASE_CC_TAKEOFFS 1
-        GUID {DBCEBFFA-BBBA-4EC5-AEF8-3CB38612ABB2}
-        IGNTEMPO 0 120 4 4
-        SRCCOLOR 304
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        VELLANE -1 9 0 0 1
-        CFGEDITVIEW 23131.91761 0.180893 57 8 0 0 0 0 0 0.5
-        KEYSNAP 0
-        TRACKSEL 0
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.0625 521 451 1441 843 1 0 0 0 0 0 0 0 0 0.5 0 0 1 64
       >
     >
   >
@@ -27672,7 +27608,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -27743,81 +27679,6 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {64B599CE-C8B8-F2F7-54BB-A77505A13CA4}
-      <SOURCE WAVE
-        FILE "Media/PlasticClicks.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME /home/nicolas/Homework/SoundDesign_Repo/AudioVisualWhiteKnuckle/Media/SFX/PlasticClicks.wav
-      >
-    >
-    <ITEM
-      POSITION 104.72374646693871
-      SNAPOFFS 0
-      LENGTH 0.52625353305078
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.12 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {09A1BA59-3640-D1A9-9A19-12FDC84001D3}
-      IID 1456
-      NAME PlasticClicks.wav
-      VOLPAN 0.732825 0 1 -1
-      SOFFS 20.37458781365141
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {766E3B15-A9F3-B275-A050-C4E66F8DE5F4}
-      <SOURCE WAVE
-        FILE "Media/PlasticClicks.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME /home/nicolas/Homework/SoundDesign_Repo/AudioVisualWhiteKnuckle/Media/SFX/PlasticClicks.wav
-      >
-    >
-    <ITEM
-      POSITION 105.12999999998949
-      SNAPOFFS 0
-      LENGTH 0.55473772869611
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.12 1 1 0 0
-      FADEOUT 1.1 0.01 0.28473772869613 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9EBE6632-E5ED-65F2-1A22-DA36C83DA731}
-      IID 1456
-      NAME PlasticClicks.wav
-      VOLPAN 0.732825 0 1 -1
-      SOFFS 31.37028207887842
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AB88DE51-FC1B-E62B-1E46-BD73E0FB3410}
-      <SOURCE WAVE
-        FILE "Media/PlasticClicks.wav"
-      >
-      <EXT
-        ORIGINAL_FILENAME /home/nicolas/Homework/SoundDesign_Repo/AudioVisualWhiteKnuckle/Media/SFX/PlasticClicks.wav
-      >
-    >
-    <ITEM
-      POSITION 105.39999999998948
-      SNAPOFFS 0
-      LENGTH 0.98231582431663
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.28473772869613 1 1 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EBB56768-B6D5-1B4E-6DE5-78874C21F542}
-      IID 1456
-      NAME PlasticClicks.wav
-      VOLPAN 0.732825 0 1 -1
-      SOFFS 28.23433122980259
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8E5E32B1-5674-5E08-EB92-EBE0D3B176AA}
       <SOURCE WAVE
         FILE "Media/PlasticClicks.wav"
       >
@@ -50507,7 +50368,7 @@
       PT 40.99 1.25892541 0
       PT 94.36485006 1.25892541 0
       PT 94.72146717 0.69183097 0
-      PT 96.1 0.67608298 0
+      PT 96.1 0.67608298 0 0 1
       PT 96.41699299 1.23026877 0
     >
     <PANENV2
