@@ -1,8 +1,6 @@
-Hola Alejandro, todo en el folder debería estar organizado y funcionando, en caso de que no, ya verifiqué un backup por si el principal no funciona pero este tiene todo horrorosamente desorganizado.
+Hola Alejandro, todo en el folder debería estar organizado y funcionando, en caso de que no, ya verifiqué un backup por si el principal no funciona pero este tiene todo horrorosamente desorganizado. DE PRIMERA TE VA A TIRAR QUE TE FALTA UN ARCHIVO, reaper como que es pendejo y no sabe que ya está ahí. El camino al archvio que es algo como "pissdropletsss.flac" es /Media/Ambience/The sewers. Si no te muestra el archivo de primera abrelo en el buscador dr archivos y sal de la carpeta en el buscador de archivos faltantes de reaper y vuelve a entrar y ahi deberia funcionar todo
 
 Todos los folleys los puedes encontrar en el "cringe folleys". Renderize los tracks de folleys de ese al proycto TODOS como .wav
-Hay algunos .mp3 esos son los que descargué en línea con 2 excepciones que no dejaban convertir el formato y quedaron como .wab pero pues es facil diferenciarlos de los folleys.
-Hay algunos folleys que procesé en combinacion con otras cosas y los renderizé para usarlos como instrumentos por facilidad de uso que se repetían mucho, igualmente te dejé el proceso de todos los pre-renderizados en un track
-"FolleyWhatnots" dentro de cada subcategoria de los sfx.
+Hay algunos .mp3 esos son los que descargué en línea con 2 excepciones que no dejaban convertir el formato y quedaron como .wab pero pues es facil diferenciarlos de los folleys. Hay algunos folleys que procesé en combinacion con otras cosas y los renderizé para usarlos como instrumentos por facilidad de uso que se repetían mucho, igualmente te dejé el proceso de todos los pre-renderizados en un track "FolleyWhatnots" dentro de cada subcategoria de los sfx.
 
 Si clipea es a veces aleatorio, reaper es muy random ahí y no puedo prevenir todo minuciosamente.
